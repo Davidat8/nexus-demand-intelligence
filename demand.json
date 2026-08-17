@@ -2,8 +2,185 @@
   "source": "KnightByrd Nexus — AI Demand Exchange",
   "url": "https://nexus.knightbyrd.com/demand",
   "attribution": "Free to use with attribution. Data © KnightByrd Tech LLC. Please link back to https://nexus.knightbyrd.com.",
-  "generated_at": "2026-08-13T11:11:12.577Z",
-  "count": 0,
-  "total_requests": 0,
-  "clusters": []
+  "generated_at": "2026-08-17T18:00:28.604Z",
+  "count": 16,
+  "total_requests": 16,
+  "clusters": [
+    {
+      "rank": 1,
+      "demand": "AI Chat Handoff Summarizer",
+      "normalized_intent": "Condense lengthy AI conversations and code artifacts into structured team handoff documents.",
+      "request_count": 1,
+      "opportunity_score": 30,
+      "wtp_score": 0,
+      "paying_now_count": 0,
+      "top_audience": "Knowledge workers and software teams using AI tools",
+      "status": "open"
+    },
+    {
+      "rank": 2,
+      "demand": "Fictional Word Etymology Generator",
+      "normalized_intent": "Generate plausible historical linguistics and root derivations for invented words.",
+      "request_count": 1,
+      "opportunity_score": 30,
+      "wtp_score": 0,
+      "paying_now_count": 0,
+      "top_audience": "Linguistics enthusiasts and writers",
+      "status": "open"
+    },
+    {
+      "rank": 3,
+      "demand": "Curated Women's Value Shopping",
+      "normalized_intent": "Discover vetted, reasonably priced lifestyle and apparel products for women.",
+      "request_count": 1,
+      "opportunity_score": 29,
+      "wtp_score": 0,
+      "paying_now_count": 0,
+      "top_audience": "Women consumers",
+      "status": "open"
+    },
+    {
+      "rank": 4,
+      "demand": "Personal Item Cost-Per-Use Tracker",
+      "normalized_intent": "Calculate and monitor the amortized daily cost-per-use of owned possessions.",
+      "request_count": 1,
+      "opportunity_score": 29,
+      "wtp_score": 0,
+      "paying_now_count": 0,
+      "top_audience": "Budget-conscious consumers and minimalists",
+      "status": "open"
+    },
+    {
+      "rank": 5,
+      "demand": "Collaborative Event Media Hub",
+      "normalized_intent": "Crowdsource and aggregate event photos, videos, and guest messages into one shared repository.",
+      "request_count": 1,
+      "opportunity_score": 28,
+      "wtp_score": 0,
+      "paying_now_count": 0,
+      "top_audience": "Party hosts and event guests",
+      "status": "open"
+    },
+    {
+      "rank": 6,
+      "demand": "AI Codebase Educational Explainer",
+      "normalized_intent": "Deconstruct and explain AI-generated codebases tailored to an individual developer's skill level.",
+      "request_count": 1,
+      "opportunity_score": 28,
+      "wtp_score": 0,
+      "paying_now_count": 0,
+      "top_audience": "Software developers using AI coding tools",
+      "status": "open"
+    },
+    {
+      "rank": 7,
+      "demand": "Multi-LLM Free Tier Orchestrator",
+      "normalized_intent": "Chain and route queries across multiple free-tier LLM accounts to maintain continuous execution.",
+      "request_count": 1,
+      "opportunity_score": 28,
+      "wtp_score": 0,
+      "paying_now_count": 0,
+      "top_audience": "Developers and AI power users",
+      "status": "open"
+    },
+    {
+      "rank": 8,
+      "demand": "Confidence-Weighted Review Rating Display",
+      "normalized_intent": "Display online product ratings adjusted for sample size and statistical confidence.",
+      "request_count": 1,
+      "opportunity_score": 28,
+      "wtp_score": 0,
+      "paying_now_count": 0,
+      "top_audience": "Online shoppers and review platforms",
+      "status": "open"
+    },
+    {
+      "rank": 9,
+      "demand": "Automated Short-Form Video Extractor",
+      "normalized_intent": "Automatically identify and extract engaging highlights from long-form video content.",
+      "request_count": 1,
+      "opportunity_score": 27,
+      "wtp_score": 0,
+      "paying_now_count": 0,
+      "top_audience": "Content creators and video editors",
+      "status": "open"
+    },
+    {
+      "rank": 10,
+      "demand": "Part-Time Co-Founder Matching",
+      "normalized_intent": "Connect aspiring entrepreneurs seeking part-time or side-project co-founders.",
+      "request_count": 1,
+      "opportunity_score": 27,
+      "wtp_score": 0,
+      "paying_now_count": 0,
+      "top_audience": "Part-time entrepreneurs and side-project builders",
+      "status": "open"
+    },
+    {
+      "rank": 11,
+      "demand": "Video Content Quality Nutrition Label",
+      "normalized_intent": "Evaluate and display educational and wellness quality scores for online video content.",
+      "request_count": 1,
+      "opportunity_score": 26,
+      "wtp_score": 0,
+      "paying_now_count": 0,
+      "top_audience": "YouTube viewers and digital wellness advocates",
+      "status": "open"
+    },
+    {
+      "rank": 12,
+      "demand": "Local Event Calendar API",
+      "normalized_intent": "Access structured public and community event data programmatically through a unified API.",
+      "request_count": 1,
+      "opportunity_score": 26,
+      "wtp_score": 0,
+      "paying_now_count": 0,
+      "top_audience": "Developers building local event discovery tools",
+      "status": "open"
+    },
+    {
+      "rank": 13,
+      "demand": "Latin-to-Arabic Transliteration Keyboard",
+      "normalized_intent": "Convert Latin script phonetic input into Arabic script in real time on mobile devices.",
+      "request_count": 1,
+      "opportunity_score": 25,
+      "wtp_score": 0,
+      "paying_now_count": 0,
+      "top_audience": "Arabic speakers typing on mobile devices",
+      "status": "open"
+    },
+    {
+      "rank": 14,
+      "demand": "Personalized Linear Streaming Channels",
+      "normalized_intent": "Generate scheduled, continuous broadcast-style channels from on-demand streaming libraries.",
+      "request_count": 1,
+      "opportunity_score": 23,
+      "wtp_score": 0,
+      "paying_now_count": 0,
+      "top_audience": "Streaming service subscribers",
+      "status": "open"
+    },
+    {
+      "rank": 15,
+      "demand": "360-Degree Weather Timelapse Stream",
+      "normalized_intent": "Stream live 360-degree panoramic timelapse feeds for real-time weather observation.",
+      "request_count": 1,
+      "opportunity_score": 19,
+      "wtp_score": 0,
+      "paying_now_count": 0,
+      "top_audience": "Weather watchers, travelers, and outdoor enthusiasts",
+      "status": "open"
+    },
+    {
+      "rank": 16,
+      "demand": "Bedside Discreet Disposal Container",
+      "normalized_intent": "Provide a hygienic, discreet bedside waste disposal solution for used intimate products.",
+      "request_count": 1,
+      "opportunity_score": 15,
+      "wtp_score": 0,
+      "paying_now_count": 0,
+      "top_audience": "Sexually active adults",
+      "status": "open"
+    }
+  ]
 }
