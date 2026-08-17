@@ -1,2 +1,17 @@
 rank,demand,normalized_intent,request_count,opportunity_score,wtp_score,paying_now_count,top_audience,status
-
+1,AI Chat Handoff Summarizer,Condense lengthy AI conversations and code artifacts into structured team handoff documents.,1,30,0,0,Knowledge workers and software teams using AI tools,open
+2,Fictional Word Etymology Generator,Generate plausible historical linguistics and root derivations for invented words.,1,30,0,0,Linguistics enthusiasts and writers,open
+3,Curated Women's Value Shopping,"Discover vetted, reasonably priced lifestyle and apparel products for women.",1,29,0,0,Women consumers,open
+4,Personal Item Cost-Per-Use Tracker,Calculate and monitor the amortized daily cost-per-use of owned possessions.,1,29,0,0,Budget-conscious consumers and minimalists,open
+5,Collaborative Event Media Hub,"Crowdsource and aggregate event photos, videos, and guest messages into one shared repository.",1,28,0,0,Party hosts and event guests,open
+6,AI Codebase Educational Explainer,Deconstruct and explain AI-generated codebases tailored to an individual developer's skill level.,1,28,0,0,Software developers using AI coding tools,open
+7,Multi-LLM Free Tier Orchestrator,Chain and route queries across multiple free-tier LLM accounts to maintain continuous execution.,1,28,0,0,Developers and AI power users,open
+8,Confidence-Weighted Review Rating Display,Display online product ratings adjusted for sample size and statistical confidence.,1,28,0,0,Online shoppers and review platforms,open
+9,Automated Short-Form Video Extractor,Automatically identify and extract engaging highlights from long-form video content.,1,27,0,0,Content creators and video editors,open
+10,Part-Time Co-Founder Matching,Connect aspiring entrepreneurs seeking part-time or side-project co-founders.,1,27,0,0,Part-time entrepreneurs and side-project builders,open
+11,Video Content Quality Nutrition Label,Evaluate and display educational and wellness quality scores for online video content.,1,26,0,0,YouTube viewers and digital wellness advocates,open
+12,Local Event Calendar API,Access structured public and community event data programmatically through a unified API.,1,26,0,0,Developers building local event discovery tools,open
+13,Latin-to-Arabic Transliteration Keyboard,Convert Latin script phonetic input into Arabic script in real time on mobile devices.,1,25,0,0,Arabic speakers typing on mobile devices,open
+14,Personalized Linear Streaming Channels,"Generate scheduled, continuous broadcast-style channels from on-demand streaming libraries.",1,23,0,0,Streaming service subscribers,open
+15,360-Degree Weather Timelapse Stream,Stream live 360-degree panoramic timelapse feeds for real-time weather observation.,1,19,0,0,"Weather watchers, travelers, and outdoor enthusiasts",open
+16,Bedside Discreet Disposal Container,"Provide a hygienic, discreet bedside waste disposal solution for used intimate products.",1,15,0,0,Sexually active adults,open
