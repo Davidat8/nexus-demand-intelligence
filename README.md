@@ -4,7 +4,7 @@
 > aggregated demand from the [KnightByrd AI Demand Exchange](https://nexus.knightbyrd.com/demand). Updated weekly. No PII:
 > clusters only, never raw submissions.
 
-_Last updated: 2026-08-31T18:00:38.618Z · 38 demand clusters · 38 total requests._
+_Last updated: 2026-09-07T18:00:38.406Z · 81 demand clusters · 81 total requests._
 
 ## Why this exists
 Most people build supply and hope demand shows up. Nexus flips it: people say what outcome they need and
@@ -15,21 +15,21 @@ we'd love a link back — and tell the people who asked.
 ## The most-wanted right now
 | # | Demand | Requests | Opportunity | Willingness-to-pay | Audience |
 |---|--------|----------|-------------|--------------------|----------|
-| 1 | A third-party mobile keyboard that automatically translitera | 1 | 21 | 0 | Arabic speakers typing on mobile devices |
-| 2 | A rating interface that prominently integrates statistical c | 1 | 21 | 0 | Online shoppers and review platforms |
-| 3 | A platform to log, track, and alert job applicants about emp | 1 | 21 | 0 | Active job seekers |
-| 4 | An AI-powered cognitive training app that generates adaptive | 1 | 21 | 0 | Caregivers and individuals with cognitive decline |
-| 5 | A platform to connect technical and non-technical founders w | 1 | 21 | 0 | Part-time entrepreneurs and side-project builders |
-| 6 | An effortless way to save and organize potential gift ideas  | 1 | 21 | 0 | Gift shoppers |
-| 7 | A way to automatically compile and edit multiple raw video c | 1 | 21 | 0 | Casual smartphone videographers and event attendees |
-| 8 | A centralized opt-out registry allowing bereaved individuals | 1 | 21 | 0 | Grieving consumers |
-| 9 | A way to programmatically access city and community event ca | 1 | 21 | 0 | Developers building local event discovery tools |
-| 10 | A tool that sequentially routes project tasks through the fr | 1 | 21 | 0 | Developers and AI power users |
-| 11 | A way to find and legally pay for short-term access to nearb | 1 | 21 | 0 | Homeowners and residents needing temporary junk disposal |
-| 12 | Modular and upgradeable powered wearable assistive devices w | 1 | 21 | 0 | Users of powered wearable and assistive devices |
-| 13 | A way to learn and understand AI-generated codebases through | 1 | 21 | 0 | Software developers using AI coding tools |
-| 14 | A web application that generates theoretical etymological ro | 1 | 21 | 0 | Linguistics enthusiasts and writers |
-| 15 | A utility to log non-tipping customers and display real-time | 1 | 21 | 0 | Gig delivery drivers |
+| 1 | A way to learn and understand AI-generated codebases through | 1 | 21 | 0 | Software developers using AI coding tools |
+| 2 | A platform that provides curated, reasonably priced product  | 1 | 21 | 0 | Women consumers |
+| 3 | A web application that generates theoretical etymological ro | 1 | 21 | 0 | Linguistics enthusiasts and writers |
+| 4 | A browser extension that automatically detects and flags AI- | 1 | 21 | 0 | LinkedIn users |
+| 5 | A platform to log, track, and alert job applicants about emp | 1 | 21 | 0 | Active job seekers |
+| 6 | A security sandboxing tool to restrict AI agent access to lo | 1 | 21 | 0 | Users running autonomous AI agents on personal computers |
+| 7 | A feature or tool to search and filter customer reviews with | 1 | 21 | 0 | App store shoppers and mobile users |
+| 8 | A spoiler-prevention setting for streaming platforms that hi | 1 | 21 | 0 | streaming service subscribers |
+| 9 | Instantly preview and stream CD audio by scanning album cove | 1 | 21 | 0 | CD collectors and thrift store shoppers |
+| 10 | An app that calculates and tracks the real daily cost-per-us | 1 | 21 | 0 | Budget-conscious consumers and minimalists |
+| 11 | A tool that condenses lengthy AI chat logs and artifacts int | 1 | 21 | 0 | Knowledge workers and software teams using AI tools |
+| 12 | A web application that generates theoretical etymological ro | 1 | 21 | 0 | Linguistics enthusiasts and writers |
+| 13 | A centralized system to manage and track customer orders pla | 1 | 21 | 0 | Social media and chat-based sellers |
+| 14 | A way to automatically compile and edit multiple raw video c | 1 | 21 | 0 | Casual smartphone videographers and event attendees |
+| 15 | A music streaming interface offering granular algorithmic co | 1 | 21 | 0 | Music streaming power users |
 
 ## Files
 - [`demand.json`](./demand.json) — full snapshot, structured.
