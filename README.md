@@ -4,7 +4,7 @@
 > aggregated demand from the [KnightByrd AI Demand Exchange](https://nexus.knightbyrd.com/demand). Updated weekly. No PII:
 > clusters only, never raw submissions.
 
-_Last updated: 2026-09-14T18:00:38.264Z · 56 demand clusters · 56 total requests._
+_Last updated: 2026-09-21T18:00:38.257Z · 63 demand clusters · 63 total requests._
 
 ## Why this exists
 Most people build supply and hope demand shows up. Nexus flips it: people say what outcome they need and
@@ -15,21 +15,21 @@ we'd love a link back — and tell the people who asked.
 ## The most-wanted right now
 | # | Demand | Requests | Opportunity | Willingness-to-pay | Audience |
 |---|--------|----------|-------------|--------------------|----------|
-| 1 | A spoiler-prevention setting for streaming platforms that hi | 1 | 21 | 0 | streaming service subscribers |
-| 2 | A tool to bulk unfollow or remove LinkedIn connections to cl | 1 | 21 | 0 | LinkedIn sales professionals and power users |
-| 3 | A navigation app tailored for scenic drives featuring visibl | 1 | 21 | 0 | Road trippers and leisure drivers |
-| 4 | A verification app that provides dependable proof that appli | 1 | 21 | 0 | individuals with departure-related memory anxiety or checking habits |
-| 5 | Detachable decorative accessories designed to be worn on the | 1 | 21 | 0 | fashion enthusiasts |
-| 6 | A job search platform that allows filtering listings across  | 1 | 21 | 0 | Job seekers open to relocating to multiple target areas |
-| 7 | A reliable automated receptionist system to handle inbound c | 1 | 21 | 0 | Small business owners |
-| 8 | A way to programmatically access city and community event ca | 1 | 21 | 0 | Developers building local event discovery tools |
-| 9 | A tool that condenses lengthy AI chat logs and artifacts int | 1 | 21 | 0 | Knowledge workers and software teams using AI tools |
-| 10 | A web application that generates theoretical etymological ro | 1 | 21 | 0 | Linguistics enthusiasts and writers |
-| 11 | A discreet and hygienic temporary containment solution for u | 1 | 21 | 0 | Sexually active adults |
-| 12 | A music streaming interface offering granular algorithmic co | 1 | 21 | 0 | Music streaming power users |
-| 13 | Modular and upgradeable powered wearable assistive devices w | 1 | 21 | 0 | Users of powered wearable and assistive devices |
-| 14 | Instantly preview and stream CD audio by scanning album cove | 1 | 21 | 0 | CD collectors and thrift store shoppers |
-| 15 | A platform to connect technical and non-technical founders w | 1 | 21 | 0 | Part-time entrepreneurs and side-project builders |
+| 1 | A way to programmatically access city and community event ca | 1 | 21 | 0 | Developers building local event discovery tools |
+| 2 | A tool that automatically extracts high-interest segments fr | 1 | 21 | 0 | Content creators and video editors |
+| 3 | A centralized system to manage and track customer orders pla | 1 | 21 | 0 | Social media and chat-based sellers |
+| 4 | Bite-sized micro-courses delivered entirely via daily or wee | 1 | 21 | 0 | Self-directed learners and professionals |
+| 5 | An automated digital decluttering tool that organizes and cl | 1 | 21 | 0 | people overwhelmed by digital clutter |
+| 6 | A tool to bulk unfollow or remove LinkedIn connections to cl | 1 | 21 | 0 | LinkedIn sales professionals and power users |
+| 7 | A scenic drive navigation app that displays tappable saved l | 1 | 21 | 0 | Road trippers and recreational drivers |
+| 8 | A platform to connect technical and non-technical founders w | 1 | 21 | 0 | Part-time entrepreneurs and side-project builders |
+| 9 | A continuous 24/7 360-degree timelapse weather monitoring se | 1 | 21 | 0 | Weather enthusiasts and sightseers |
+| 10 | A security sandboxing tool to restrict AI agent access to lo | 1 | 21 | 0 | Users running autonomous AI agents on personal computers |
+| 11 | A spoiler-prevention setting for streaming platforms that hi | 1 | 21 | 0 | streaming service subscribers |
+| 12 | A third-party mobile keyboard that automatically translitera | 1 | 21 | 0 | Arabic speakers typing on mobile devices |
+| 13 | A browser extension that assigns nutrition-style health and  | 1 | 21 | 0 | YouTube viewers and digital wellness advocates |
+| 14 | A platform to log, track, and alert job applicants about emp | 1 | 21 | 0 | Active job seekers |
+| 15 | Phone grip accessories engineered with diverse tactile and s | 1 | 21 | 0 | Sensory seekers and fidgeters |
 
 ## Files
 - [`demand.json`](./demand.json) — full snapshot, structured.
