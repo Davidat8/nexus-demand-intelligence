@@ -4,7 +4,7 @@
 > aggregated demand from the [KnightByrd AI Demand Exchange](https://nexus.knightbyrd.com/demand). Updated weekly. No PII:
 > clusters only, never raw submissions.
 
-_Last updated: 2026-09-21T18:00:38.257Z · 63 demand clusters · 63 total requests._
+_Last updated: 2026-09-28T18:00:38.265Z · 77 demand clusters · 77 total requests._
 
 ## Why this exists
 Most people build supply and hope demand shows up. Nexus flips it: people say what outcome they need and
@@ -16,20 +16,20 @@ we'd love a link back — and tell the people who asked.
 | # | Demand | Requests | Opportunity | Willingness-to-pay | Audience |
 |---|--------|----------|-------------|--------------------|----------|
 | 1 | A way to programmatically access city and community event ca | 1 | 21 | 0 | Developers building local event discovery tools |
-| 2 | A tool that automatically extracts high-interest segments fr | 1 | 21 | 0 | Content creators and video editors |
-| 3 | A centralized system to manage and track customer orders pla | 1 | 21 | 0 | Social media and chat-based sellers |
-| 4 | Bite-sized micro-courses delivered entirely via daily or wee | 1 | 21 | 0 | Self-directed learners and professionals |
-| 5 | An automated digital decluttering tool that organizes and cl | 1 | 21 | 0 | people overwhelmed by digital clutter |
-| 6 | A tool to bulk unfollow or remove LinkedIn connections to cl | 1 | 21 | 0 | LinkedIn sales professionals and power users |
-| 7 | A scenic drive navigation app that displays tappable saved l | 1 | 21 | 0 | Road trippers and recreational drivers |
-| 8 | A platform to connect technical and non-technical founders w | 1 | 21 | 0 | Part-time entrepreneurs and side-project builders |
-| 9 | A continuous 24/7 360-degree timelapse weather monitoring se | 1 | 21 | 0 | Weather enthusiasts and sightseers |
-| 10 | A security sandboxing tool to restrict AI agent access to lo | 1 | 21 | 0 | Users running autonomous AI agents on personal computers |
-| 11 | A spoiler-prevention setting for streaming platforms that hi | 1 | 21 | 0 | streaming service subscribers |
-| 12 | A third-party mobile keyboard that automatically translitera | 1 | 21 | 0 | Arabic speakers typing on mobile devices |
-| 13 | A browser extension that assigns nutrition-style health and  | 1 | 21 | 0 | YouTube viewers and digital wellness advocates |
-| 14 | A platform to log, track, and alert job applicants about emp | 1 | 21 | 0 | Active job seekers |
-| 15 | Phone grip accessories engineered with diverse tactile and s | 1 | 21 | 0 | Sensory seekers and fidgeters |
+| 2 | An effortless way to save and organize potential gift ideas  | 1 | 21 | 0 | Gift shoppers |
+| 3 | A visual scanning app that identifies physical objects aroun | 1 | 21 | 0 | Resellers, declutterers, and secondhand sellers |
+| 4 | Phone grip accessories engineered with diverse tactile and s | 1 | 21 | 0 | Sensory seekers and fidgeters |
+| 5 | A reliable automated receptionist system to handle inbound c | 1 | 21 | 0 | Small business owners |
+| 6 | A PC program to convert hard drive or media storage contents | 1 | 21 | 0 | Digital archivists and data preservationists |
+| 7 | A realistic simulation game where players experience daily c | 1 | 21 | 0 | Historical simulation and RPG gamers |
+| 8 | A game mod porting Don't Starve Together skin styles to Hazb | 1 | 21 | 0 | Don't Starve Together and Hazbin Hotel gamers |
+| 9 | A way to learn and understand AI-generated codebases through | 1 | 21 | 0 | Software developers using AI coding tools |
+| 10 | A tool that sequentially routes project tasks through the fr | 1 | 21 | 0 | Developers and AI power users |
+| 11 | A music streaming interface offering granular algorithmic co | 1 | 21 | 0 | Music streaming power users |
+| 12 | A simple way to catalog and recall inspiring and notable peo | 1 | 21 | 0 | Avid readers, researchers, and lifelong learners |
+| 13 | A platform to connect technical and non-technical founders w | 1 | 21 | 0 | Part-time entrepreneurs and side-project builders |
+| 14 | A web application that generates theoretical etymological ro | 1 | 21 | 0 | Linguistics enthusiasts and writers |
+| 15 | Bite-sized micro-courses delivered entirely via daily or wee | 1 | 21 | 0 | Self-directed learners and professionals |
 
 ## Files
 - [`demand.json`](./demand.json) — full snapshot, structured.
