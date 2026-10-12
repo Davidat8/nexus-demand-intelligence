@@ -4,7 +4,7 @@
 > aggregated demand from the [KnightByrd AI Demand Exchange](https://nexus.knightbyrd.com/demand). Updated weekly. No PII:
 > clusters only, never raw submissions.
 
-_Last updated: 2026-10-05T18:00:38.271Z · 87 demand clusters · 87 total requests._
+_Last updated: 2026-10-12T18:00:38.417Z · 87 demand clusters · 87 total requests._
 
 ## Why this exists
 Most people build supply and hope demand shows up. Nexus flips it: people say what outcome they need and
