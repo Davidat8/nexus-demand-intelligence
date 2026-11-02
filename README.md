@@ -4,7 +4,7 @@
 > aggregated demand from the [KnightByrd AI Demand Exchange](https://nexus.knightbyrd.com/demand). Updated weekly. No PII:
 > clusters only, never raw submissions.
 
-_Last updated: 2026-10-26T18:00:38.528Z · 183 demand clusters · 183 total requests._
+_Last updated: 2026-11-02T18:00:38.366Z · 106 demand clusters · 106 total requests._
 
 ## Why this exists
 Most people build supply and hope demand shows up. Nexus flips it: people say what outcome they need and
@@ -15,21 +15,21 @@ we'd love a link back — and tell the people who asked.
 ## The most-wanted right now
 | # | Demand | Requests | Opportunity | Willingness-to-pay | Audience |
 |---|--------|----------|-------------|--------------------|----------|
-| 1 | A third-party mobile keyboard that automatically translitera | 1 | 21 | 0 | Arabic speakers typing on mobile devices |
-| 2 | A discreet and hygienic temporary containment solution for u | 1 | 21 | 0 | Sexually active adults |
-| 3 | A matchmaking platform that suggests romantic partners based | 1 | 21 | 0 | Singles interested in biological matchmaking |
-| 4 | A series of ambient, slow gameplay videos set to Sonic Mania | 1 | 21 | 0 | Sonic fans and ambient video watchers |
-| 5 | A game mod porting Don't Starve Together skin styles to Hazb | 1 | 21 | 0 | Don't Starve Together and Hazbin Hotel gamers |
-| 6 | An app that allows users to view historical information abou | 1 | 21 | 0 | Local historians, curious residents, urban explorers. |
-| 7 | A 5-liter vacuum-sealing container designed to store bulk pa | 1 | 21 | 0 | Home cooks and bakers |
-| 8 | A platform that provides curated, reasonably priced product  | 1 | 21 | 0 | Women consumers |
-| 9 | A browser tool to autofill Indian government exam applicatio | 1 | 21 | 0 | Indian government exam aspirants |
-| 10 | A recipe application that displays only ingredients and inst | 1 | 21 | 0 | home cooks and bakers |
-| 11 | A system that provides doctors with visibility into patient  | 1 | 21 | 0 | Medical professionals, healthcare providers. |
-| 12 | A centralized dashboard to monitor and manage notifications  | 1 | 21 | 0 | Software engineers running multiple AI coding agents |
-| 13 | An automated AI tool that identifies and contacts prospectiv | 1 | 21 | 0 | Domain investors |
-| 14 | A tool that automatically extracts high-interest segments fr | 1 | 21 | 0 | Content creators and video editors |
-| 15 | A tool that sequentially routes project tasks through the fr | 1 | 21 | 0 | Developers and AI power users |
+| 1 | A platform that provides curated, reasonably priced product  | 1 | 21 | 0 | Women consumers |
+| 2 | An app that calculates and tracks the real daily cost-per-us | 1 | 21 | 0 | Budget-conscious consumers and minimalists |
+| 3 | A collaborative platform for party guests to aggregate photo | 1 | 21 | 0 | Party hosts and event guests |
+| 4 | A rating interface that prominently integrates statistical c | 1 | 21 | 0 | Online shoppers and review platforms |
+| 5 | An automated AI tool that identifies and contacts prospectiv | 1 | 21 | 0 | Domain investors |
+| 6 | A browser tool to autofill Indian government exam applicatio | 1 | 21 | 0 | Indian government exam aspirants |
+| 7 | A centralized system to manage and track customer orders pla | 1 | 21 | 0 | Social media and chat-based sellers |
+| 8 | A browser extension that automatically detects and flags AI- | 1 | 21 | 0 | LinkedIn users |
+| 9 | A web application that generates theoretical etymological ro | 1 | 21 | 0 | Linguistics enthusiasts and writers |
+| 10 | A utility to log non-tipping customers and display real-time | 1 | 21 | 0 | Gig delivery drivers |
+| 11 | A platform to log, track, and alert job applicants about emp | 1 | 21 | 0 | Active job seekers |
+| 12 | A music streaming interface offering granular algorithmic co | 1 | 21 | 0 | Music streaming power users |
+| 13 | A marketplace platform to commission custom books on specifi | 1 | 21 | 0 | Readers and researchers seeking bespoke non-fiction books |
+| 14 | A tool that condenses lengthy AI chat logs and artifacts int | 1 | 21 | 0 | Knowledge workers and software teams using AI tools |
+| 15 | A browser extension that assigns nutrition-style health and  | 1 | 21 | 0 | YouTube viewers and digital wellness advocates |
 
 ## Files
 - [`demand.json`](./demand.json) — full snapshot, structured.
